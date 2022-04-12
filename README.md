@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zyadalatar
-- 👀 I’m interested in the way of creating valuable business oppurtiunies and profit by leveraging data science 
+- 👀 I’m interested in the way of creating valuable business oppurtiunies by leveraging data science 
 - 🌱 I’m currently learning how to take algorithms from papers to the real world 
 
 
